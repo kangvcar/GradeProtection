@@ -3,7 +3,6 @@
  📖[在线阅读](https://gp-v2.vercel.app/)  |  📘[Download PDF](https://github.com/kangvcar/GradeProtection/raw/master/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%AD%89%E7%BA%A7%E4%BF%9D%E6%8A%A42.0%E6%9E%81%E7%AE%80%E6%95%99%E7%A8%8B.pdf)  | 🧐[下载PDF (国内镜像)](https://wwa.lanzous.com/itNBZgued7a
 )| 💡[在线讨论](https://gitter.im/等级保护2-0-极简教程/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-> 内容出自《网络安全等级测评师 培训教程（初级） 2019版》
 
 ![w7plWR.md.png](https://s1.ax1x.com/2020/09/20/w7plWR.md.png)
 
